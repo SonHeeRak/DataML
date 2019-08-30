@@ -1,6 +1,6 @@
 # 1. 네이버 영화 평점 크롤링
 ### 첫번째 크롤링 방법
-- 크롤링1 : https://github.com/SonHeeRak/Portfolio/blob/master/Naver_Review_Portfolio/naver_movie.ipynb
+- 크롤링1 : https://github.com/SonHeeRak/Portfolio/blob/master/Naver_Review_Portfolio/naver_movie.md
 
 - 크롤링2 (url주소 잘못입력으로 크롤링 실패) : https://github.com/SonHeeRak/Portfolio/blob/master/Naver_Review_Portfolio/(fail)naver_movie_reviews.ipynb
 
