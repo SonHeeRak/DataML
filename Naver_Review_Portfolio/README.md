@@ -11,4 +11,4 @@
   - 영화코드 10001 ~ 200000 까지 바꿔가며 영화마다의 평점과 comment 크롤링
 
 # 2. 크롤링한 데이터병합  csv파일로 변환
-- 데이터 병합 : https://github.com/SonHeeRak/Portfolio/blob/master/Naver_Review_Portfolio/reveiws_concatenate.ipynb
+- 데이터 병합 : https://github.com/SonHeeRak/Portfolio/blob/master/Naver_Review_Portfolio/reveiws_concatenate_1.md
