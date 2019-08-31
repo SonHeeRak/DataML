@@ -13,7 +13,7 @@
 # 2. 크롤링한 데이터병합  csv파일로 변환
 - [데이터 병합1](https://github.com/SonHeeRak/Portfolio/blob/master/Naver_Review_Portfolio/reveiws_concatenate_1.ipynb)
 
-- [데이터 병합2](https://github.com/SonHeeRak/Portfolio/blob/master/Naver_Review_Portfolio/reveiws_concatenate_2.ipynb)
+- [최종 데이터 병합](https://github.com/SonHeeRak/Portfolio/blob/master/Naver_Review_Portfolio/reveiws_concatenate_2.ipynb)
   
   - 11047개의 영화의 리뷰들을 크롤링해서 10296675개의 리뷰들을 저장
   
