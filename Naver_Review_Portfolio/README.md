@@ -17,4 +17,4 @@
   
   - 11047개의 영화의 리뷰들을 크롤링해서 10296675개의 리뷰들을 저장
   
-  - 
+  - [네이버 영화 리뷰 모음](https://drive.google.com/open?id=1LVOOP-GAqBS5ng2ja6BFX3kIynA7ut48)
