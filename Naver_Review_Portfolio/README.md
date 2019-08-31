@@ -15,6 +15,6 @@
 
 - [데이터 병합2](https://github.com/SonHeeRak/Portfolio/blob/master/Naver_Review_Portfolio/reveiws_concatenate_2.ipynb)
   
-  - 11047개의 영화의 리뷰들을 저장해서 10296675개의 리뷰들을 저장
+  - 11047개의 영화의 리뷰들을 크롤링해서 10296675개의 리뷰들을 저장
   
   - 
