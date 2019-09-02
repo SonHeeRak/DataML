@@ -6,7 +6,7 @@
 
 - [bs4 버전 크롤링](https://github.com/SonHeeRak/Portfolio/blob/master/Naver_Review_Portfolio/naver_movie_reviews_bs4.ipynb)
 
-- [최종 크롤링](https://github.com/SonHeeRak/Portfolio/blob/master/Naver_Review_Portfolio/naver_movie_reviews.ipynb)
+- [최종 크롤링(lxml)](https://github.com/SonHeeRak/Portfolio/blob/master/Naver_Review_Portfolio/naver_movie_reviews.ipynb)
 
   - https://movie.naver.com/movie/point/af/list.nhn 네이버 영화 평점은 1000페이지 이상으로는 접근이 불가능
   
